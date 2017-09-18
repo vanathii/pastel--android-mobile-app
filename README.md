@@ -1,0 +1,2 @@
+# pastel--android-mobile-app
+An app has been developed specifically for the convince of the user for ordering cakes , desserts, chocolates, confectionaries, puff and beverages without visiting the shop ,all they have to is just create a login Id and password to order things they need. The focus is on designing and development of an app which is user friendly and will add as an additional layer of ecommerce to the existing system with necessary measure to revert back to the tradition technology in case of failure.
